@@ -1,0 +1,5 @@
+databasename_target="datawarehouse_HRCO"
+user_target="postgres"
+pass_target="Vophuocson1998#"
+host_target="localhost"
+port_target="5432"
