@@ -1,7 +1,6 @@
 from sys import path
 path.insert(1,path[0]+'\\configs')
 import variables
-print(path)
 database_target={
     'user':variables.user_target,
     'password':variables.pass_target,
